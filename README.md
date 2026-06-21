@@ -1,8 +1,3 @@
-### Hi there 👋
-- 🔭 i do bash and python
-- 🌱 i vibe w c 
-- i hate web
-- [![HitCount](https://hits.dwyl.com/dng-nguyn/dng-nguyn.svg?style=flat-square)](http://hits.dwyl.com/dng-nguyn/dng-nguyn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dng-nguyn&langs_count=8&theme=radical)
 
